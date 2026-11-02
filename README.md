@@ -36,4 +36,4 @@ I will update my progress everyday as I keep learning and building!
 - Rule based systems vs ML models
 - Asking whether: Do we really need a ML model to solve this problem?
 
-**FOLLOW ALONG!**
+**🗺️FOLLOW ALONG!🗺️**

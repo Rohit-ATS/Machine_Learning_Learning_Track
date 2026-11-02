@@ -4,7 +4,7 @@ This is my official learning track of Machine Learning
 
 I will update my progress everyday as I keep learning and building!
 
-Day 1 - (November 01, 2026):
+**Day 1 - (November 01, 2026):**
 - Learned what are the basics of Machine Learning
 - What are different Machine Learning models
 - Setting up Github Environment (Github Codespaces) - I personally use VS Code Desktop
@@ -36,5 +36,4 @@ Day 1 - (November 01, 2026):
 - Rule based systems vs ML models
 - Asking whether: Do we really need a ML model to solve this problem?
 
-*** FOLLOW ALONG! ***
-Thanks for stopping by, Good day😎!
+**FOLLOW ALONG!**

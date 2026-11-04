@@ -36,4 +36,15 @@ I will update my progress everyday as I keep learning and building!
 - Rule based systems vs ML models
 - Asking whether: Do we really need a ML model to solve this problem?
 
+Day 2 - (November 03, 2026):
+- Learned introduction to Numpy
+- Importing Numpy
+- Creating a 1D array in Numpy
+- Creating a 2D array in Numpy
+- Creating a (x, y) array in Numpy
+- Randomly generated arrays
+- Element-wise Operations
+- Comparison Operations
+- Summarizing Operations
+
 **🗺️FOLLOW ALONG!🗺️**
